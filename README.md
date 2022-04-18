@@ -4,6 +4,8 @@ Track Your Workouts.
 <h3><b>Project Name: Mapty</b></h3>
 <h1 style="color:red;">View on Desktop Mode</h1>
 
+</h4>This app helps you track your workouts in your current location and saves it on your broswer even if you close your browser</h4>
+
 <b style="font-weight:bold;">How to Use</b>
 1)	Allow mapty acces your location
 2)	Click on your current location on the map
