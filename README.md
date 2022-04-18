@@ -19,6 +19,6 @@ Track Your Workouts.
 4)	Geolocation Api
 5)	LocalStorage
 
-View game <a href="https://danielflame.github.io/Highest-Dice-Number/">here</a>
+View app <a href="https://danielflame.github.io/Mapty/">here</a>
 
 CSS Styling by Jonas Schmedtmann
